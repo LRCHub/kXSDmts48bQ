@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Rising Hope -364＋JOKER Live ver.-",
+  "base_artist": "LiSA",
+  "createdAt": "2026-01-14T02:40:41.074707Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rising Hope",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/pl_01_Rising_Hope_LiSA.txt"
+    }
+  ]
+}
